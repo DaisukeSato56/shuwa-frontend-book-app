@@ -16,7 +16,8 @@
     "webpack-cli": "^4.5.0"
   },
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "lint:ts": "tsc --noEmit"
   },
   "dependencies": {
     "jquery": "^3.5.1"
