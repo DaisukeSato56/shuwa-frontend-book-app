@@ -1,0 +1,15 @@
+{
+  "name": "shuwa-frontend-book-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DaisukeSato56/shuwa-frontend-book-app.git",
+  "author": "DaisukeSato56 <workshift56@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.21.1",
+    "webpack-cli": "^4.5.0"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
